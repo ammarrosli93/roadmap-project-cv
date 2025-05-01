@@ -1,0 +1,79 @@
+
+
+body{
+    border: 2px solid whitesmoke;
+    padding: 0 7% 0 7%;
+    background-color: #191919;
+}
+
+h1{
+    border-top: 2px solid whitesmoke;
+    padding-top: 2%;
+    font-style: normal;
+    font-weight: 300;
+    font-family:Cambria, serif;
+    color: #ffc30b;
+}
+
+h2{
+    font-family: cambria, serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+h3{
+    font-family: cambria, serif;
+    font-size: 13.5px;
+    font-weight: bold;
+    color: #ff007f;
+    border:none;
+}
+
+h4{
+    font-family: cambria, serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: #ffc30b;
+    border:none;
+    padding:none;
+}
+.address{
+    font-style: normal;
+    color: #ffc30b;
+    font-size: 13px;
+    font-family: Cambria, serif;
+    font-weight: 100;
+}
+
+.skills{
+    font-style: normal;
+    color: #ffc30b;
+    font-size: 13px;
+    font-family: Cambria, serif;
+    font-weight: 200;
+}
+
+.education{
+    font-style: normal;
+    color: #ffc30b;
+    font-size: 13px;
+    font-family: Cambria, serif;
+    font-weight: 200;
+}
+
+.experience{
+    font-style: normal;
+    color: #ffc30b;
+    font-size: 13px;
+    font-family: Cambria, serif;
+    font-weight: 200;
+}
+
+.social-media{
+    font-style: normal;
+    color: #ffc30b;
+    font-size: 13px;
+    font-family: Cambria, serif;
+    font-weight: 200;
+}
